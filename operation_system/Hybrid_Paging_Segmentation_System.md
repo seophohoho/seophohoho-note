@@ -39,5 +39,5 @@ Tags : #CS #OS
 		- Direct mapping일 경우에는, 메모리 접근이 3배
 			- 성능이 저하될 수 있음
 ## Paging-Replacement-Algorithm
-[[Paging-Replacement-Algorithm]]
+[[Paging_Replacement_Algorithm]]
 

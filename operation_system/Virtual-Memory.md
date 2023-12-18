@@ -42,4 +42,4 @@ Tags : #CS #OS
 ## Virtual Storage(Memory) Methods
 - [[Paging-System]]
 - [[Segmentation-System]]
-- [[Hybrid-Paging-Segmentation-System]]
+- [[Hybrid_Paging_Segmentation_System]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "operation_system/Hybrid-Paging-Segmentation-System.md",
+                "file": "operation_system/Hybrid_Paging_Segmentation_System.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "algorithms_and_data_structure/시간복잡도(Time Complexity).md",
+                "file": "Templates/template1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithms_and_data_structure/시간복잡도(Time Complexity).md",
+                "file": "Templates/template1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "algorithms_and_data_structure/시간복잡도(Time Complexity).md",
+                "file": "Templates/template1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "algorithms_and_data_structure/시간복잡도(Time Complexity).md"
+                "file": "Templates/template1.md"
               }
             }
           },
@@ -170,25 +170,25 @@
   },
   "active": "ce37eedf10d904b4",
   "lastOpenFiles": [
-    "operation_system/Virtual-Memory.md",
-    "Templates/template1.md",
     "README.md",
+    "database/Transaction.md",
+    "operation_system/Paging_Replacement_Algorithm.md",
+    "operation_system/Hybrid_Paging_Segmentation_System.md",
+    "algorithms_and_data_structure/시간복잡도(Time Complexity).md",
+    "Templates/template1.md",
+    "operation_system/Virtual-Memory.md",
     "operation_system/Segmentation-System.md",
     "operation_system/Paging-System.md",
     "3_Resource/OperatingSystem/img/img5.png.md",
     "3_Resource/OperatingSystem/img",
     "3_Resource/OperatingSystem",
     "3_Resource",
-    "operation_system/Hybrid-Paging-Segmentation-System.md",
     "OperatingSystem/img/img1.png.md",
-    "operation_system/Paging-Replacement-Algorithm.md",
     "3_Resource/OperatingSystem/img/img1.png.md",
     "OperatingSystem/img",
     "OperatingSystem",
     "Untitled.md",
     "database/SQL_JOIN.md",
-    "database/Transaction.md",
-    "algorithms_and_data_structure/시간복잡도(Time Complexity).md",
     "operation_system/img/img12.png",
     "operation_system/img/img8.png",
     "operation_system/img/img4.png",

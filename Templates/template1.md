@@ -1,5 +1,5 @@
-Created by : seophohoho. 
-Created time : {{date}} {{time}}. 
+Created by : seophohoho   
+Created time : {{date}} {{time}}   
 Tags :   
 
 

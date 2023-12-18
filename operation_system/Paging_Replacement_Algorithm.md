@@ -1,5 +1,5 @@
-Created by : seophohoho
-Created time : 2023-11-21 06:57
+Created by : seophohoho  
+Created time : 2023-11-21 06:57  
 Tags : #CS #OS 
 ## FIFO Algorithm
 - First In First Out
