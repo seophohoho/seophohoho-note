@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "algorithms_and_data_structure/시간복잡도(Time Complexity).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "algorithms_and_data_structure/시간복잡도(Time Complexity).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "algorithms_and_data_structure/시간복잡도(Time Complexity).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "algorithms_and_data_structure/시간복잡도(Time Complexity).md"
               }
             }
           },
@@ -170,13 +170,22 @@
   },
   "active": "ce37eedf10d904b4",
   "lastOpenFiles": [
-    "Untitled.md",
-    "README.md",
-    "operation_system/Hybrid-Paging-Segmentation-System.md",
-    "operation_system/Paging-Replacement-Algorithm.md",
-    "operation_system/Paging-System.md",
-    "operation_system/Segmentation-System.md",
     "operation_system/Virtual-Memory.md",
+    "Templates/template1.md",
+    "README.md",
+    "operation_system/Segmentation-System.md",
+    "operation_system/Paging-System.md",
+    "3_Resource/OperatingSystem/img/img5.png.md",
+    "3_Resource/OperatingSystem/img",
+    "3_Resource/OperatingSystem",
+    "3_Resource",
+    "operation_system/Hybrid-Paging-Segmentation-System.md",
+    "OperatingSystem/img/img1.png.md",
+    "operation_system/Paging-Replacement-Algorithm.md",
+    "3_Resource/OperatingSystem/img/img1.png.md",
+    "OperatingSystem/img",
+    "OperatingSystem",
+    "Untitled.md",
     "database/SQL_JOIN.md",
     "database/Transaction.md",
     "algorithms_and_data_structure/시간복잡도(Time Complexity).md",
@@ -185,10 +194,6 @@
     "operation_system/img/img4.png",
     "operation_system/img/img2.png",
     "operation_system/img/img1.png",
-    "3_Resource/OperatingSystem/img/img1.png.md",
-    "3_Resource/OperatingSystem/img",
-    "3_Resource/OperatingSystem",
-    "3_Resource",
     "algorithms_and_data_structure",
     "cooking_studio/콘옥수수.md",
     "cooking_studio/크림소스파스타.md",
@@ -202,20 +207,15 @@
     "operation_system/img",
     "operation_system",
     "database/img",
-    "database",
     "Cooking_Studio/크림소스파스타.md",
     "Cooking_Studio/콘옥수수.md",
     "Cooking_Studio/삼겹덮밥.md",
-    "Cooking_Studio",
     "3_Resource/OperatingSystem/img/img2.png.md",
     "Operating_System/Paging-Replacement-Algorithm.md",
     "Operating_System/Virtual-Memory.md",
     "Operating_System/Segmentation-System.md",
     "Operating_System/Hybrid-Paging-Segmentation-System.md",
     "Operating_System/Paging-System.md",
-    "Data_Base/Transaction.md",
-    "Data_Base/SQL_JOIN.md",
-    "Algorithms & Data Structure/시간복잡도(Time Complexity).md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "무제 파일.canvas"

@@ -11,7 +11,7 @@ Tags : #CS #OS
 	- 프로그램의 시작 주소를 0으로 가정한 주소
 - Relocation(재배치)
 	- 메모리 할당 이후, 할당된 주소(allocation address)에 따라서 Relative address(상대주소)들을 조정하는 작업
-![[3_Resource/OperatingSystem/img/img1.png]]
+![[/OperatingSystem/img/img1.png]]
 ## AddressMapping/Non-Continuous allocation
 - Virtual address(가상주소) = relative address
 	- Logical address(논리주소)

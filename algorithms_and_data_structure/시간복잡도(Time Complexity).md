@@ -3,7 +3,7 @@ Created time : 2023-12-18 15:29
 Tags : #CS 
 ## INTRO
 특정 함수를 실행했을 때, **실행 시간(running time)** 이 어느정도 인지 표현하고 싶다.
-> [!info] What is running time?
+> [!NOTE] What is running time?
 > 함수/알고리즘 수행에 필요한 스텝(step) 수
 
 표현을 쉽게 하기 위해서 각 코드의 라인 수를 수행하기 위한 필요한 스텝 수는 상수(constant)라고 가정한다. 
@@ -32,7 +32,7 @@ T(N) = c1 + c2 * (N+1) + c3 * N + 1
 - 최고차항만 의미 있음.
 - 최고차항의 계수는 의미 없음.
 즉, 해당 조건들을 모두 충족하는 실행 시간(running time) 분석 방법을 점근적 분석(Asymptotic analysis)라고 한다.
-> [!info] What is Asymptotic analysis?
+> [!NOTE] What is Asymptotic analysis?
 > 임의의 함수가 N->∞ 일 경우에, 어떤 함수 형태에 근접해지는지 분석하는 것.
 ## 시간복잡도(Time complexity)란?
 함수/알고리즘의 실행 시간을 표현하는 것인데, 주로 점근적 분석을 통해서 실행 시간을 단순하게 표현하며, 이 때 점근적표기법으로 표현한다.
