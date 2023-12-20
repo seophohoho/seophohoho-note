@@ -1,8 +1,9 @@
-Created by : seophohoho
-Created time : 2023-12-18 15:29
+Created by : seophohoho  
+Created time : 2023-12-18 15:29  
 Tags : #CS 
 ## INTRO
-특정 함수를 실행했을 때, **실행 시간(running time)** 이 어느정도 인지 표현하고 싶다.
+특정 함수를 실행했을 때, **실행 시간(running time)** 이 어느정도 인지 표현하고 싶다.  
+
 > [!NOTE] What is running time?
 > 함수/알고리즘 수행에 필요한 스텝(step) 수
 

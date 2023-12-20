@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/template1.md",
+                "file": "algorithms_and_data_structure/Time_Complexity.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/template1.md",
+                "file": "algorithms_and_data_structure/Time_Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/template1.md",
+                "file": "algorithms_and_data_structure/Time_Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/template1.md"
+                "file": "algorithms_and_data_structure/Time_Complexity.md"
               }
             }
           },
@@ -170,12 +170,16 @@
   },
   "active": "ce37eedf10d904b4",
   "lastOpenFiles": [
+    "algorithms_and_data_structure/시간복잡도(Time Complexity).md",
     "README.md",
+    "cooking_studio/삼겹덮밥.md",
+    "cooking_studio/크림소스파스타.md",
+    "cooking_studio/콘옥수수.md",
+    "algorithms_and_data_structure/Time_Complexity.md",
+    "Templates/template1.md",
     "database/Transaction.md",
     "operation_system/Paging_Replacement_Algorithm.md",
     "operation_system/Hybrid_Paging_Segmentation_System.md",
-    "algorithms_and_data_structure/시간복잡도(Time Complexity).md",
-    "Templates/template1.md",
     "operation_system/Virtual-Memory.md",
     "operation_system/Segmentation-System.md",
     "operation_system/Paging-System.md",
@@ -195,9 +199,6 @@
     "operation_system/img/img2.png",
     "operation_system/img/img1.png",
     "algorithms_and_data_structure",
-    "cooking_studio/콘옥수수.md",
-    "cooking_studio/크림소스파스타.md",
-    "cooking_studio/삼겹덮밥.md",
     "cooking_studio",
     "operation_system/img/img9.png",
     "operation_system/img/img7.png",
@@ -215,7 +216,6 @@
     "Operating_System/Virtual-Memory.md",
     "Operating_System/Segmentation-System.md",
     "Operating_System/Hybrid-Paging-Segmentation-System.md",
-    "Operating_System/Paging-System.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "무제 파일.canvas"
