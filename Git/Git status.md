@@ -7,7 +7,7 @@ Git은 파일을 `Commited`,`Modified`,`Staged` 이렇게 3가지 상태로 관�
 - `Modified` : 수정한 파일을 아직 로컬 데이터베이스에 저장하지 않은 상태.
 - `Staged` : 현재 수정한 파일을 곧 Commit할 것이라고 표시한 상태.
 ## Git 프로젝트의 3가지 단계
-![img1](Git/img/img1.png)
+![img1](../Git/img/img1.png)
 - `.git directory(Repository)` : 
 	- Git이 프로젝트의 메타데이터와 객체 데이터베이스를 저장하는 곳을 말한다.
 	- `git init` 혹은 `git clone` 명령어를 사용하게 될 시, 해당 디렉토리에 `.git` 이라는 숨김파일이다.
