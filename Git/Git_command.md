@@ -1,4 +1,3 @@
-Created by : seophohoho  
 Created datetime : 2023-12-22 13:48  
 Tags :  #Git 
 ## 파일 삭제
@@ -201,3 +200,31 @@ a11bef0 - Scott Chacon, 6 years ago : first commit
 |`%cd`|커미터 시각|
 |`%cr`|커미터 상대적 시각|
 |`%s`|요약|
+## 되돌리기
+- 커밋을 잘못해서 수정해서 다시 하고 싶다면? `git commit --amend`
+- 커밋을 했는데, Stage 하는 것을 깜빡하고 빠뜨린 것이 있다면?
+```console
+$ git commit -m 'initial commit'
+$ git add forgotten_file
+$ git commit --amend
+```
+> [!NOTE] 이렇게 `--amend` 옵션으로 커밋을 고치는 작업은, 추가로 작업한 일이 작다고 하더라도 이전의 커밋을 완전히 새로 고쳐서 새 커밋으로 변경하는 것을 의미한다. 이전의 커밋은 일어나지 않은 일이 되는 것이고 당연히 히스토리에도 남지 않는다.
+> `--amend` 옵션으로 커밋을 고치는 작업이 주는 장점은 마지막 커밋 작업에서 아주 살짝 뭔가 빠뜨린 것을 넣거나 변경하는 것을 새 커밋으로 분리하지 않고 하나의 커밋에서 처리하는 것이다. “앗차, 빠진 파일 넣었음”, “이전 커밋에서 오타 살짝 고침” 등의 커밋을 만들지 않겠다는 말이다.
+
+## 파일 상태를 Unstage로 변경하기
+예를 들어 파일을 두 개 수정하고서 따로따로 커밋하려고 했지만, 실수로 `git add *` 라고 실행해 버렸다. 두 파일 모두 Staging Area에 들어 있다. 이제 둘 중 하나를 어떻게 꺼낼까?  
+````console
+git reset HEAD <filename>
+````
+## Modified 파일 되돌리기
+```console
+git checkout -- CONTRIBUTING.md
+```
+> [!NOTE] `git checkout — [file]` 명령은 꽤 위험한 명령이라는 것을 알아야 한다. 원래 파일로 덮어썼기 때문에 수정한 내용은 전부 사라진다. 수정한 내용이 진짜 마음에 들지 않을 때만 사용하자.
+## 리모트 저장소를 Pull 하거나 Fetch 하기
+```console
+git fetch <remote>
+```
+저장소를 Clone 하면 명령은 자동으로 리모트 저장소를 “origin” 이라는 이름으로 추가한다. 그래서 나중에 `git fetch origin` 명령을 실행하면 Clone 한 이후에(혹은 마지막으로 가져온 이후에) 수정된 것을 모두 가져온다. `git fetch` 명령은 리모트 저장소의 데이터를 모두 로컬로 가져오지만, 자동으로 Merge 하지 않는다. 그래서 당신이 로컬에서 하던 작업을 정리하고 나서 수동으로 Merge 해야 한다.
+## 
+
