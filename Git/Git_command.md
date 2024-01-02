@@ -202,7 +202,7 @@ a11bef0 - Scott Chacon, 6 years ago : first commit
 |`%s`|요약|
 ## 되돌리기
 - 커밋을 잘못해서 수정해서 다시 하고 싶다면? `git commit --amend`
-- 커밋을 했는데, Stage 하는 것을 깜빡하고 빠뜨린 것이 있다면?
+- 커밋을 했는데, Stage 하는 것을 깜빡하고 빠뜨gi린 것이 있다면?
 ```console
 $ git commit -m 'initial commit'
 $ git add forgotten_file
