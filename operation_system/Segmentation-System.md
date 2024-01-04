@@ -11,7 +11,7 @@ Tags : #CS #OS
 	- No internal fragmentation
 		- But, External fragmentation 발생
 
-![](./img/img12.png)  
+![](img12.png)  
 ## AddressMapping
 - Virtual Address는 v = (s,d)
 	- s = segment number
@@ -20,11 +20,11 @@ Tags : #CS #OS
 	- segment length =  각 segment의 길이
 	- protection bits = 각 segment에 대한 접근 권한
 
-![](./img/img13.png)
+![](img13.png)
 - Address mapping Mechanism
 	- Direct mapping
 ### AddressMapping/Mechanism/DirectMapping
-![](./img/img14.png)
+![](img14.png)
 1. process의 SMT가 저장되어 있는 시작 주소 b에 접근
 2. SMT에서 segment s의 entry 찾음(s의 entry 위치 = b + s x entrysize)
 3. 찾아진 entry에 대해서 다음 단계들을 순차적으로 실행
@@ -37,8 +37,8 @@ Tags : #CS #OS
 - VPM(Variable Partition Memory, 가변 분할 기억장치 할당) 기법과 유사
 	- Segment 적재 시, 크기에 맞추어 분할 후 적재
 
-![](./img/img15.png)
+![](img15.png)
 ## Segment Sharing/protection
 - 논리적으로 분할되어 있기 때문에, 공유 및 보호가 용이
 
-![](./img/img16.png)
+![](img16.png)
